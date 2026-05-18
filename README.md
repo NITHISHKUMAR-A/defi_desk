@@ -48,17 +48,8 @@ That constant context-switching broke my focus. So I built **Defi Desk** — a t
 
 ## 🖥️ Demo
 
-```
-┌─────────────────────────────┐
-│  ephemeral                  │
-│                             │
-│  lasting for a very short   │
-│  time; short-lived.         │
-│                             │
-│  TA: தற்காலிக              │
-└─────────────────────────────┘
-         🐾 [dog wandering]
-```
+<img width="1920" height="1080" alt="Screenshot from 2026-05-18 18-11-37" src="https://github.com/user-attachments/assets/f52fe6f8-fdad-401e-940f-0d887587b7d6" />
+
 
 *Highlight the word → pet pops up speech bubble → auto-hides in 8s*
 
