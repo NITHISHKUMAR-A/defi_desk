@@ -228,12 +228,5 @@ This project is licensed under the **MIT License** — use it, modify it, share 
 
 ---
 
-## 👤 Author
-
-**Nithish** — Tech Enthusiast & Python Developer
-
-*Built in one day out of frustration with Alt-Tab → Google → Alt-Tab.*
-
----
 
 *If you find this useful, give it a ⭐ on GitHub!*
